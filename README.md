@@ -1,11 +1,14 @@
 # About me
 ## Description
-  I am an IT student in my first year at Epitech.
+  I am a student in my second year at Epitech.
 
 ## Langages
   * C (the Epitech style)
   * Python
   * Html/Css/JavaScript
+  * Node.js
+  * Docker
+  * Docker-compose
   * Bash
 
 # My Stats
@@ -16,3 +19,4 @@
   <source media="(prefers-color-scheme: dark)" srcset="./dist/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./dist/github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
+</picture>
