@@ -20,7 +20,7 @@
 [![Henra's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenraL&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 Frequent langages:
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@018d3733-67ff-4538-8d3d-cee4bee65e1b/6024ba8c-0ee3-4f5a-ba4c-ac704a5c0c9b.png" /></a>
+[![Graph](https://activity-graph.herokuapp.com/graph?username=HenraL&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)]()
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./dist/github-snake-dark.svg" />
