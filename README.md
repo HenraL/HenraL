@@ -12,6 +12,9 @@
   * Docker
   * Docker-compose
   * Bash
+  * Batch
+  * MariaDB/MySQL
+  * Github Action
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenraL&theme=blue-green&layout=compact)
 
